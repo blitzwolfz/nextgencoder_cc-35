@@ -1,5 +1,4 @@
 #Made by Samin Q
-# @blitzwolfz
 
 def Add_Per(number):
     first_step = 0
